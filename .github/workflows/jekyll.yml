@@ -1,12 +1,14 @@
-name: Deploy Jekyll site to Pages
+name: Build & Deploy Jekyll site
 
 on:
   push:
     branches: ["main"]
+  pull_request:
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: read   # Only give Pages permissions in the deploy job
 
 concurrency:
   group: "pages"
@@ -16,29 +18,35 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - uses: ruby/setup-ruby@675dd7ba1b06c8786a1480d89c384f5620a42647
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@675dd7ba1b06c8786a1480d89c384f5620a42647
         with:
           ruby-version: "3.1"
           bundler-cache: true
 
-      - id: pages
+      - name: Configure Pages
+        id: pages
         uses: actions/configure-pages@v5
 
-      - run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
 
-      - uses: actions/upload-pages-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
 
   deploy:
-    if: github.repository == github.event.repository.full_name
-    runs-on: ubuntu-latest
+    if: github.repository == github.event.repository.full_name   # Only run in upstream repo
     needs: build
+    runs-on: ubuntu-latest
     permissions:
       pages: write
       id-token: write
     steps:
-      - uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
         id: deployment
+        uses: actions/deploy-pages@v4
