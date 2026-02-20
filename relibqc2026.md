@@ -5,17 +5,9 @@ permalink: /2026/
 ---
 # Welcome to the Reusable libraries in quantum chemistry 2026 Workshop!
 
-The rapid development of quantum chemical methods over the past decades has led to a rich ecosystem of software packages, both open-source and commercial. However, this progress has also resulted in a significant duplication of effort, with many implementations re-deriving and re-implementing similar algorithms and data structures. This situation poses long-term challenges in terms of code maintenance, reproducibility, and sustainability.
+For general information about the ReLibQC workshop series, see the [About](/about/) page.
 
-A recent call to action within the quantum chemistry community has emphasized the need to prioritize the development of reusable, rigorously tested software libraries. These libraries are intended to serve as robust, shared foundations that can be leveraged across a wide range of projects ([J. Chem. Phys. 159, 180901 (2023)](https://doi.org/10.1063/5.0175165)). Such reusable libraries have the potential to significantly reduce maintenance costs, improve software reliability, and accelerate scientific innovation by allowing researchers to focus on methodological advances rather than low-level reimplementation.
-
-The ReLibQC workshop series was initiated in 2025 in direct response to this call. Its primary goal is to catalyze in-depth discussions within the quantum chemistry community on the design, implementation, and long-term governance of reusable libraries. By fostering interactions between developers working on different codes and infrastructures, the workshop aims to enable the emergence of new collaborative efforts that can reshape how quantum chemistry software is developed and maintained.
-
-The ReLibQC 2026 workshop is explicitly designed to promote discussion, exchange of experience, and networking rather than formal presentation of finished results. We welcome anyone interested in quantum chemistry software development to participate. We hope to attract both seasoned senior developers of established open-source and commercial packages, as well as advanced graduate students and postdoctoral researchers with substantial experience in scientific software development.
-
-While particular emphasis is placed on engaging developers of open-source projects, participants working on commercial or closed-source software are also welcome, especially if they are interested in building upon or interfacing with emerging open-source libraries.
-
-The workshop will be held at the [Fédération de Recherche Fermi](https://federation-fermi.fr/) in Toulouse, France.
+The workshop will be held at the [Fédération de Recherche Fermi (FeRMI)](https://fermi.univ-tlse3.fr/en/) in Toulouse, France. Access to the building can be found on [this page](https://fermi.univ-tlse3.fr/en/the-federation/contact/).
 
 This workshop is partially supported through the EUR grant NanoX n° ANR-17-EURE-0009 in the framework of the "Programme des Investissements d'Avenir".
 
@@ -55,7 +47,10 @@ Long lunch breaks are planned to foster interactions between participants. All p
 
 ## Organizing committee
 
-To be announced.
+* Susi Lehtola (University of Helsinki)
+* Sarai Dery Folkestad (Norwegian University of Science and Technology)
+* Nicolas Renon (CALMIP)
+* Anthony Scemama (Laboratoire de Chimie et Physique Quantiques / FeRMI)
 
 ## Scientific committee
 
@@ -63,5 +58,5 @@ To be announced.
 
 ## Sponsors
 
-* CECAM - Centre Européen de Calcul Atomique et Moléculaire
+<!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
 * NanoX - EUR grant n° ANR-17-EURE-0009
