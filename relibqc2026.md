@@ -1,3 +1,8 @@
+---
+layout: page
+title: ReLibQC 2026
+permalink: /2026/
+---
 # Welcome to the Reusable libraries in quantum chemistry 2026 Workshop!
 
 The rapid development of quantum chemical methods over the past decades has led to a rich ecosystem of software packages, both open-source and commercial. However, this progress has also resulted in a significant duplication of effort, with many implementations re-deriving and re-implementing similar algorithms and data structures. This situation poses long-term challenges in terms of code maintenance, reproducibility, and sustainability.
