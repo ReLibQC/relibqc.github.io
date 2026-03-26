@@ -3,8 +3,14 @@ layout: page
 title: About ReLibQC
 permalink: /about/
 ---
-The purpose of ReLibQC is to catalyze discussions within the quantum chemistry community on the potential of new reusable libraries, following the recent call to arms in [J. Chem. Phys. 159, 180901 (2023)](https://doi.org/10.1063/5.0175165). Reusable libraries exhibit great promise in reducing maintenance costs of quantum chemical software, and accelerate the development of science. The ReLibQc meeting series thus has an explicit focus on enabling discussions and networking between various projects, which can result in the development of new reusable libraries for novel topics.
+The rapid development of quantum chemical methods over the past decades has led to a rich ecosystem of software packages, both open-source and commercial. However, this progress has also resulted in a significant duplication of effort, with many implementations re-deriving and re-implementing similar algorithms and data structures. This situation poses long-term challenges in terms of code maintenance, reproducibility, and sustainability.
 
+A recent call to action within the quantum chemistry community has emphasized the need to prioritize the development of reusable, rigorously tested software libraries ([J. Chem. Phys. 159, 180901 (2023)](https://doi.org/10.1063/5.0175165)). Such reusable libraries have the potential to significantly reduce maintenance costs, improve software reliability, and accelerate scientific innovation by allowing researchers to focus on methodological advances rather than low-level reimplementation.
 
-Contact information?
-Who is organizing?
+The ReLibQC workshop series was initiated in response to this call. Its primary goal is to catalyze in-depth discussions within the quantum chemistry community on the design, implementation, and long-term governance of reusable libraries. By fostering interactions between developers working on different codes and infrastructures, the workshop aims to enable the emergence of new collaborative efforts that can reshape how quantum chemistry software is developed and maintained.
+
+ReLibQC workshops are explicitly designed to promote discussion, exchange of experience, and networking rather than formal presentation of finished results. We welcome anyone interested in quantum chemistry software development to participate — from seasoned senior developers of established packages to advanced graduate students and postdoctoral researchers with experience in scientific software development.
+
+### Previous edditions
+<!-- * [ReLibQC 2026](/2026/) — Fédération de Recherche Fermi, Toulouse, France (September 22–25, 2026) -->
+* [ReLibQC 2025](/2025/) — Majvik Conference Center, Finland (June 29 – July 3, 2025)

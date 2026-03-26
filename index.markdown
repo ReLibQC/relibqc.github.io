@@ -1,18 +1,46 @@
 ---
 layout: default
 ---
-# Reusable Libraries in Quantum Chemistry (ReLibQC)
+# Welcome to the Reusable Libraries in Quantum Chemistry (ReLibQC) 2026 Workshop!
 
-The rapid development of quantum chemical methods over the past decades has led to a rich ecosystem of software packages, both open-source and commercial. However, this progress has also resulted in a significant duplication of effort, with many implementations re-deriving and re-implementing similar algorithms and data structures. This situation poses long-term challenges in terms of code maintenance, reproducibility, and sustainability.
+The purpose of ReLibQC is to catalyze discussions within the quantum chemistry community on the potential of new reusable libraries. Reusable libraries exhibit great promise in reducing maintenance costs of quantum chemical software, and accelerate the development of science. The ReLibQc meeting series thus has an explicit focus on enabling discussions and networking between various projects, which can result in the development of new reusable libraries for novel topics. For information about the ReLibQC workshop series, see the [About](/about/) page.
 
-A recent call to action within the quantum chemistry community has emphasized the need to prioritize the development of reusable, rigorously tested software libraries ([J. Chem. Phys. 159, 180901 (2023)](https://doi.org/10.1063/5.0175165)). Such reusable libraries have the potential to significantly reduce maintenance costs, improve software reliability, and accelerate scientific innovation by allowing researchers to focus on methodological advances rather than low-level reimplementation.
+**The workshop will be held in Toulouse (France), Tuesday September 22 to Friday September 25.**
 
-The ReLibQC workshop series was initiated in response to this call. Its primary goal is to catalyze in-depth discussions within the quantum chemistry community on the design, implementation, and long-term governance of reusable libraries. By fostering interactions between developers working on different codes and infrastructures, the workshop aims to enable the emergence of new collaborative efforts that can reshape how quantum chemistry software is developed and maintained.
+## Registration and abstract submission
+[Registration can be done though this link.](https://forms.gle/VHuQ3yPhDCP5BLai8)
+*Note that there is no registration fee.*
 
-ReLibQC workshops are explicitly designed to promote discussion, exchange of experience, and networking rather than formal presentation of finished results. We welcome anyone interested in quantum chemistry software development to participate — from seasoned senior developers of established packages to advanced graduate students and postdoctoral researchers with experience in scientific software development.
+**Registration deadline: 31. July 2026**
 
-## Editions
+We encourage everyone that registers to ReLibQC to submit an abstract. The program will include
+* **Contributed talks:** 30 minutes + 15 minutes of discussion.
+* **Short talks:** 23 minutes + 7 minutes of discussion.
+* **Flash talks:** 12 minutes + 3 minutes of discussion.
 
-* [ReLibQC 2025](/2025/) — Majvik Conference Center, Finland (June 29 – July 3, 2025)
-* [ReLibQC 2026](/2026/) — Fédération de Recherche Fermi, Toulouse, France (September 22–25, 2026) *(work in progress)*
+Additionally, the program will include keynote talks (45 minutes + 15 minutes of discussion), poster and programming sessions, and plenty of time for discussions.
+
+## Keynote speakers
+*To be announced.*
+
+## Program
+*To be announced.*
+
+## Practical information
+Information about the workshop venue, travel, etc. can be found on the [Practical Information](/information/) page.
+
+## Organizing committee
+* Anthony Scemama (Laboratoire de Chimie et Physique Quantiques / FeRMI)
+* Nicolas Renon (CALMIP)
+* Susi Lehtola (University of Helsinki)
+* Sarai Dery Folkestad (Norwegian University of Science and Technology)
+
+<!--## Scientific committee
+To be announced.-->
+
+## Sponsors
+* NanoX - EUR grant n° ANR-17-EURE-0009
+<!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
+
+
 

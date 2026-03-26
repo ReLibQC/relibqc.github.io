@@ -41,22 +41,20 @@ Long lunch breaks are planned to foster interactions between participants. All p
 | 14:30 - 15:15 | Contributed talk | Contributed talk | Contributed talk | Discussions |
 | 15:15 - 15:45 | Short talk    | Short talk      | Short talk     |              |
 | 15:45 - 16:15 | Coffee        | Coffee          | Coffee         | Closing      |
-| 16:15 - 17:00 | Contributed talk | Contributed talk | Contributed talk |            |
+| 16:15 - 17:00 | Contributed talk | Contributed talk | Contributed talk |        |
 | 17:00 - 17:30 | Short talk    | Short talk      | Short talk     |              |
 | 20:00 - 23:00 |               |                 | Conference dinner |            |
 
 ## Organizing committee
 
+* Anthony Scemama (Laboratoire de Chimie et Physique Quantiques / FeRMI)
 * Susi Lehtola (University of Helsinki)
 * Sarai Dery Folkestad (Norwegian University of Science and Technology)
 * Nicolas Renon (CALMIP)
-* Anthony Scemama (Laboratoire de Chimie et Physique Quantiques / FeRMI)
 
-## Scientific committee
-
-To be announced.
+<!--## Scientific committee
+To be announced.-->
 
 ## Sponsors
-
 <!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
 * NanoX - EUR grant n° ANR-17-EURE-0009
