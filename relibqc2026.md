@@ -30,20 +30,20 @@ The workshop runs from Tuesday September 22 to Friday September 25, 2026.
 
 Long lunch breaks are planned to foster interactions between participants. All participants are welcome to present a poster.
 
-| Time          | Tuesday 22.9. | Wednesday 23.9. | Thursday 24.9. | Friday 25.9. |
-|---------------|---------------|-----------------|----------------|--------------|
-| 09:00 - 09:15 | Plan of the day | Plan of the day | Plan of the day | Plan of the day |
-| 09:15 - 10:15 | Keynote talk  | Keynote talk    | Keynote talk   | Keynote talk |
-| 10:15 - 10:45 | Coffee        | Coffee          | Coffee         | Coffee       |
-| 10:45 - 11:45 | Keynote talk  | Keynote talk    | Keynote talk   | Keynote talk |
-| 11:45 - 12:00 | Flash talk    | Flash talk      | Flash talk     | Flash talk   |
-| 12:00 - 14:30 | Lunch         | Lunch           | Lunch          | Lunch        |
-| 14:30 - 15:15 | Contributed talk | Contributed talk | Contributed talk | Discussions |
-| 15:15 - 15:45 | Short talk    | Short talk      | Short talk     |              |
-| 15:45 - 16:15 | Coffee        | Coffee          | Coffee         | Closing      |
-| 16:15 - 17:00 | Contributed talk | Contributed talk | Contributed talk |        |
-| 17:00 - 17:30 | Short talk    | Short talk      | Short talk     |              |
-| 20:00 - 23:00 |               |                 | Conference dinner |            |
+| Time          | Monday  21.9.    | Tuesday 22.9.    | Wednesday 23.9. | Thursday 24.9.   | Friday 25.9. |
+|---------------|------------------|------------------|-----------------|------------------|--------------|
+| 09:00 - 09:15 |                  | Plan of theday   | Plan of theday  | Plan of the day  | Plan of the day |
+| 09:15 - 10:15 |                  | Keynote talk     | Keynote talk    | Keynote talk     | Keynote talk |
+| 10:15 - 10:45 |                  | Coffee           | Coffee          | Coffee           | Coffee       |
+| 10:45 - 11:45 |                  | Contributed talk | Contributed talk| Contributed talk | Contributed talk |
+| 11:45 - 12:00 |                  | Flash talk       | Flash talk      | Flash talk       | Flash talk   |
+| 12:00 - 14:30 |                  | Lunch            | Lunch           | Lunch            | Lunch        |
+| 14:30 - 15:15 | Plan of theday   | Contributed talk | Posters         | Contributed talk | Discussions |
+| 15:15 - 15:45 | Keynote talk     | Short talk       | Coding workshop | Short talk       |              |
+| 15:45 - 16:15 | Coffee           | Coffee           |                 | Coffee           | Closing      |
+| 16:15 - 17:00 | Contributed talk | Coding session   |                 | Coding session   |            |
+| 17:00 - 17:30 | Short talk       |                  |                 |                  |              |
+| 20:00 - 23:00 |                  |                  |                 | Conference dinner|            |
 
 ## Organizing committee
 
