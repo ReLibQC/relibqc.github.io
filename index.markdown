@@ -14,5 +14,5 @@ ReLibQC workshops are explicitly designed to promote discussion, exchange of exp
 ## Editions
 
 * [ReLibQC 2025](/2025/) — Majvik Conference Center, Finland (June 29 – July 3, 2025)
-* [ReLibQC 2026](/2026/) — Fédération de Recherche Fermi, Toulouse, France (September 22–25, 2026) *(work in progress)*
+* [ReLibQC 2026](/2026/) — Fédération de Recherche Fermi, Toulouse, France (September 21–25, 2026) *(work in progress)*
 
