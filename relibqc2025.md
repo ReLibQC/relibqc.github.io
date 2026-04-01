@@ -5,13 +5,11 @@ permalink: /2025/
 ---
 # Welcome to the Reusable libraries in quantum chemistry 2025 Conference!
 
-The purpose of this meeting is to catalyze discussions within the quantum chemistry community on the potential of new reusable libraries, following the main organizer's recent call to arms in [J. Chem. Phys. 159, 180901 (2023)](https://doi.org/10.1063/5.0175165). Reusable libraries exhibit great promise in reducing maintenance costs of quantum chemical software, and accelerate the development of science. The meeting thus has an explicit focus on enabling discussions and networking between various projects, which can result in the development of new reusable libraries for novel topics.
-
-Following the example of computer science meetings, the main focus of the conference is on poster sessions in order to maximize the number of presentations at the meeting and to enable in-person discussions between the participants. Our aim is to allow all attendees to present a poster.
-
-We welcome anyone interested in quantum chemistry software development to participate. We hope to attract both seasoned senior developers of established open source and commercial packages, as well as advanced graduate students and postdocs in the meeting to talk about best practices in quantum chemical software development. Our target audience is people who are already working on quantum chemistry software development. While we especially hope to attract developers of existing program packages or open source libraries, as our aim is also to enable the networking necessary to form novel initiatives that have the potential to revolutionize how quantum chemistry software is developed, people working in commercial or closed-source packages are also welcome to attend the meeting, especially if they are open to developing with or relying on novel open source libraries in their projects.
+For general information about the ReLibQC workshop series, see the [About](/about/) page.
 
 The meeting will be held at the [Majvik Conference Center](https://majvik.fi/), which is situated in beautiful nature a half hour's distance from the Helsinki international airport. The isolated setting with full room and board will allow excellent opportunities to network with colleagues working within quantum chemistry software development.
+
+Following the example of computer science meetings, the main focus of the conference is on poster sessions in order to maximize the number of presentations at the meeting and to enable in-person discussions between the participants. Our aim is to allow all attendees to present a poster.
 
 ## Invitation letters
 
