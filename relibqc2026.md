@@ -47,17 +47,15 @@ Long lunch breaks are planned to foster interactions between participants. All p
 
 ## Organizing committee
 
+* Anthony Scemama (Laboratoire de Chimie et Physique Quantiques / FeRMI)
 * Susi Lehtola (University of Helsinki)
 * Sarai Dery Folkestad (Norwegian University of Science and Technology)
 * Nicolas Renon (CALMIP)
-* Anthony Scemama (Laboratoire de Chimie et Physique Quantiques / FeRMI)
 
-## Scientific committee
-
-To be announced.
+<!--## Scientific committee
+To be announced.-->
 
 ## Sponsors
-
 <!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
 * NanoX - EUR grant n° ANR-17-EURE-0009
 * CECAM
