@@ -43,4 +43,6 @@ To be announced.-->
 <!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
 
 
+* [ReLibQC 2025](/2025/) — Majvik Conference Center, Finland (June 29 – July 3, 2025)
+* [ReLibQC 2026](/2026/) — Fédération de Recherche Fermi, Toulouse, France (September 21–25, 2026) *(work in progress)*
 

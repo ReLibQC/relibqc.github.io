@@ -21,7 +21,7 @@ Abstract submission details will be announced soon.
 
 ## Timetable
 
-The workshop runs from Tuesday September 22 to Friday September 25, 2026.
+The workshop runs from Monday September 21 to Friday September 25, 2026.
 
 * Keynote talks are 45 minutes each, followed by 15 minutes of discussion.
 * Contributed talks are 30 minutes each, followed by 15 minutes of discussion.
@@ -58,3 +58,4 @@ To be announced.-->
 ## Sponsors
 <!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
 * NanoX - EUR grant n° ANR-17-EURE-0009
+* CECAM
