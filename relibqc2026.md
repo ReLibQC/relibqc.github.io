@@ -13,7 +13,7 @@ This workshop is partially supported through the EUR grant NanoX n° ANR-17-EURE
 
 ## Registration
 
-Registration details will be announced soon.
+[Registration is online](https://docs.google.com/forms/d/e/1FAIpQLScM0I_eKJxC-xApLTmgZ2jj7a-PHVfXf1rZgOpaouD03iVdIg/)
 
 ## Abstract submission
 
