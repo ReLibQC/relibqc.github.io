@@ -13,7 +13,7 @@ This workshop is partially supported through the EUR grant NanoX n° ANR-17-EURE
 
 ## Registration
 
-Registration details will be announced soon.
+[Registration is online](https://docs.google.com/forms/d/e/1FAIpQLScM0I_eKJxC-xApLTmgZ2jj7a-PHVfXf1rZgOpaouD03iVdIg/)
 
 ## Abstract submission
 
@@ -21,7 +21,7 @@ Abstract submission details will be announced soon.
 
 ## Timetable
 
-The workshop runs from Tuesday September 22 to Friday September 25, 2026.
+The workshop runs from Monday September 21 to Friday September 25, 2026.
 
 * Keynote talks are 45 minutes each, followed by 15 minutes of discussion.
 * Contributed talks are 30 minutes each, followed by 15 minutes of discussion.
@@ -53,16 +53,15 @@ Long lunch breaks are planned to foster interactions between participants. All p
 
 ## Organizing committee
 
+* Anthony Scemama (Laboratoire de Chimie et Physique Quantiques / FeRMI)
 * Susi Lehtola (University of Helsinki)
 * Sarai Dery Folkestad (Norwegian University of Science and Technology)
 * Nicolas Renon (CALMIP)
-* Anthony Scemama (Laboratoire de Chimie et Physique Quantiques / FeRMI)
 
-## Scientific committee
-
-To be announced.
+<!--## Scientific committee
+To be announced.-->
 
 ## Sponsors
-
 <!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
 * NanoX - EUR grant n° ANR-17-EURE-0009
+* CECAM
