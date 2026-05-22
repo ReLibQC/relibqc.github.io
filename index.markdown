@@ -12,7 +12,7 @@ The purpose of ReLibQC is to catalyze discussions within the quantum chemistry c
   <tbody>
     <tr>
       <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
-        <a href="https://nanox-toulouse.fr/"><img src="/NanoX.png" alt="NanoX" style="height:64px; width:220px; object-fit:contain;"></a>
+        <a href="https://nanox-toulouse.fr/"><img src="/NanoX.png" alt="NanoX" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
       </td>
       <td style="vertical-align:middle;">
         <a href="https://nanox-toulouse.fr/">NanoX</a> - EUR grant n° ANR-17-EURE-0009
@@ -20,7 +20,7 @@ The purpose of ReLibQC is to catalyze discussions within the quantum chemistry c
     </tr>
     <tr>
       <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
-        <a href="https://www.cecam.org/cecam-fr-gso"><img src="https://www.cecam.org/themes/cecam/assets/images/logo.png" alt="CECAM-GSO" style="height:64px; width:220px; object-fit:contain;"></a>
+        <a href="https://www.cecam.org/cecam-fr-gso"><img src="https://www.cecam.org/themes/cecam/assets/images/logo.png" alt="CECAM-GSO" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
       </td>
       <td style="vertical-align:middle;">
         <a href="https://www.cecam.org/cecam-fr-gso">CECAM-GSO</a> - Centre Européen de Calcul Atomique et Moléculaire, Grand Sud-Ouest Node
@@ -28,7 +28,7 @@ The purpose of ReLibQC is to catalyze discussions within the quantum chemistry c
     </tr>
     <tr>
       <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
-        <a href="https://journals.aps.org/prxintelligence/"><img src="/PRX_Intelligence_CMYK.png" alt="PRX Intelligence" style="height:64px; width:220px; object-fit:contain;"></a>
+        <a href="https://journals.aps.org/prxintelligence/"><img src="/PRX_Intelligence_CMYK.png" alt="PRX Intelligence" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
       </td>
       <td style="vertical-align:middle;">
         <a href="https://journals.aps.org/prxintelligence/">PRX Intelligence</a>
