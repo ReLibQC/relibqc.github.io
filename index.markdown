@@ -8,9 +8,9 @@ The purpose of ReLibQC is to catalyze discussions within the quantum chemistry c
 **The workshop will be held in Toulouse (France), Tuesday September 22 to Friday September 25.**
 
 ## Sponsors
-* [NanoX](https://nanox-toulouse.fr/) - EUR grant n° ANR-17-EURE-0009 [![NanoX](/NanoX.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://nanox-toulouse.fr/)
-* [CECAM-GSO](https://www.cecam.org/cecam-fr-gso) - Centre Européen de Calcul Atomique et Moléculaire, Grand Sud-Ouest Node [![CECAM-GSO](https://www.cecam.org/){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https:////www.cecam.org/cecam-fr-gso)
-* [PRX Intelligence](https://journals.aps.org/prxintelligence/) [![PRX Intelligence](/PRX_Intelligence_CMYK.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://journals.aps.org/prxintelligence/)
+* [![NanoX](/NanoX.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://nanox-toulouse.fr/) [NanoX](https://nanox-toulouse.fr/) - EUR grant n° ANR-17-EURE-0009
+* [![CECAM-GSO](https://www.cecam.org/themes/cecam/assets/images/logo.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https:////www.cecam.org/cecam-fr-gso) [CECAM-GSO](https://www.cecam.org/cecam-fr-gso) - Centre Européen de Calcul Atomique et Moléculaire, Grand Sud-Ouest Node
+* [![PRX Intelligence](/PRX_Intelligence_CMYK.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://journals.aps.org/prxintelligence/) [PRX Intelligence](https://journals.aps.org/prxintelligence/)
 
 
 
