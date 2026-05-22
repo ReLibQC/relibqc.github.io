@@ -62,6 +62,5 @@ Long lunch breaks are planned to foster interactions between participants. All p
 To be announced.-->
 
 ## Sponsors
-<!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
 * NanoX - EUR grant n° ANR-17-EURE-0009
-* CECAM
+* [PRX Intelligence](https://journals.aps.org/prxintelligence/) [![PRX Intelligence](/PRX_Intelligence_CMYK.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://journals.aps.org/prxintelligence/)

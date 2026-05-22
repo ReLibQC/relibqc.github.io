@@ -21,10 +21,10 @@ We encourage everyone that registers to ReLibQC to submit an abstract. The progr
 Additionally, the program will include keynote talks (45 minutes + 15 minutes of discussion), poster and programming sessions, and plenty of time for discussions.
 
 ## Confirmed keynote speakers
-<!* Paul Ayers or Farnaz Heidar-Zadeh!>
+<!--* Paul Ayers or Farnaz Heidar-Zadeh-->
 * Jan Brandejs
 * Michael F. Herbst
-* Filippo Lipparini 
+* Filippo Lipparini
 * Eugene DePrince
 
 ## Program
@@ -44,9 +44,10 @@ To be announced.-->
 
 ## Sponsors
 * NanoX - EUR grant n° ANR-17-EURE-0009
+* [PRX Intelligence](https://journals.aps.org/prxintelligence/) [![PRX Intelligence](/PRX_Intelligence_CMYK.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://journals.aps.org/prxintelligence/)
 <!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
 
 
-* [ReLibQC 2025](/2025/) — Majvik Conference Center, Finland (June 29 – July 3, 2025)
+<!-- ** [ReLibQC 2025](/2025/) — Majvik Conference Center, Finland (June 29 – July 3, 2025)
 * [ReLibQC 2026](/2026/) — Fédération de Recherche Fermi, Toulouse, France (September 21–25, 2026) *(work in progress)*
-
+-->
