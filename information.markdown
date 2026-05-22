@@ -24,6 +24,32 @@ If you need an invitation letter to get a visa or funding to attend the meeting,
 To be announced.-->
 
 
-### Sponsors
-* NanoX - EUR grant n° ANR-17-EURE-0009
-* [PRX Intelligence](https://journals.aps.org/prxintelligence/) [![PRX Intelligence](/PRX_Intelligence_CMYK.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://journals.aps.org/prxintelligence/)
+## Sponsors
+<table style="border-collapse:separate; border-spacing:0 16px; width:100%;">
+  <tbody>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://nanox-toulouse.fr/"><img src="/NanoX.png" alt="NanoX" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://nanox-toulouse.fr/">NanoX</a> - EUR grant n° ANR-17-EURE-0009
+      </td>
+    </tr>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://www.cecam.org/cecam-fr-gso"><img src="https://www.cecam.org/themes/cecam/assets/images/logo.png" alt="CECAM-GSO" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://www.cecam.org/cecam-fr-gso">CECAM-GSO</a> - Centre Européen de Calcul Atomique et Moléculaire, Grand Sud-Ouest Node
+      </td>
+    </tr>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://journals.aps.org/prxintelligence/"><img src="/PRX_Intelligence_CMYK.png" alt="PRX Intelligence" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://journals.aps.org/prxintelligence/">PRX Intelligence</a>
+      </td>
+    </tr>
+  </tbody>
+</table>

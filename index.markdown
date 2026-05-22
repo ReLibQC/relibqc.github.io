@@ -5,7 +5,39 @@ layout: default
 
 The purpose of ReLibQC is to catalyze discussions within the quantum chemistry community on the potential of new reusable libraries. Reusable libraries exhibit great promise in reducing maintenance costs of quantum chemical software, and accelerate the development of science. The ReLibQc meeting series thus has an explicit focus on enabling discussions and networking between various projects, which can result in the development of new reusable libraries for novel topics. For information about the ReLibQC workshop series, see the [About](/about/) page.
 
-**The workshop will be held in Toulouse (France), Tuesday September 22 to Friday September 25.**
+**The workshop will be held in Toulouse (France), Monday September 21 to Friday September 25.**
+
+## Sponsors
+<table style="border-collapse:separate; border-spacing:0 16px; width:100%;">
+  <tbody>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://nanox-toulouse.fr/"><img src="/NanoX.png" alt="NanoX" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://nanox-toulouse.fr/">NanoX</a> - EUR grant n° ANR-17-EURE-0009
+      </td>
+    </tr>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://www.cecam.org/cecam-fr-gso"><img src="https://www.cecam.org/themes/cecam/assets/images/logo.png" alt="CECAM-GSO" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://www.cecam.org/cecam-fr-gso">CECAM-GSO</a> - Centre Européen de Calcul Atomique et Moléculaire, Grand Sud-Ouest Node
+      </td>
+    </tr>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://journals.aps.org/prxintelligence/"><img src="/PRX_Intelligence_CMYK.png" alt="PRX Intelligence" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://journals.aps.org/prxintelligence/">PRX Intelligence</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## Registration and abstract submission
 [Registration can be done though this link.](https://forms.gle/VHuQ3yPhDCP5BLai8)
@@ -41,12 +73,6 @@ Information about the workshop venue, travel, etc. can be found on the [Practica
 
 <!--## Scientific committee
 To be announced.-->
-
-## Sponsors
-* NanoX - EUR grant n° ANR-17-EURE-0009
-* [PRX Intelligence](https://journals.aps.org/prxintelligence/) [![PRX Intelligence](/PRX_Intelligence_CMYK.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://journals.aps.org/prxintelligence/)
-<!-- * CECAM - Centre Européen de Calcul Atomique et Moléculaire -->
-
 
 <!-- ** [ReLibQC 2025](/2025/) — Majvik Conference Center, Finland (June 29 – July 3, 2025)
 * [ReLibQC 2026](/2026/) — Fédération de Recherche Fermi, Toulouse, France (September 21–25, 2026) *(work in progress)*
