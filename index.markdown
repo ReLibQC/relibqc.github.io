@@ -5,7 +5,7 @@ layout: default
 
 The purpose of ReLibQC is to catalyze discussions within the quantum chemistry community on the potential of new reusable libraries. Reusable libraries exhibit great promise in reducing maintenance costs of quantum chemical software, and accelerate the development of science. The ReLibQc meeting series thus has an explicit focus on enabling discussions and networking between various projects, which can result in the development of new reusable libraries for novel topics. For information about the ReLibQC workshop series, see the [About](/about/) page.
 
-**The workshop will be held in Toulouse (France), Tuesday September 22 to Friday September 25.**
+**The workshop will be held in Toulouse (France), Monday September 21 to Friday September 25.**
 
 ## Sponsors
 * [![NanoX](/NanoX.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://nanox-toulouse.fr/) [NanoX](https://nanox-toulouse.fr/) - EUR grant n° ANR-17-EURE-0009
