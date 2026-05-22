@@ -20,8 +20,12 @@ We encourage everyone that registers to ReLibQC to submit an abstract. The progr
 
 Additionally, the program will include keynote talks (45 minutes + 15 minutes of discussion), poster and programming sessions, and plenty of time for discussions.
 
-## Keynote speakers
-*To be announced.*
+## Confirmed keynote speakers
+<!* Paul Ayers or Farnaz Heidar-Zadeh!>
+* Jan Brandejs
+* Michael F. Herbst
+* Filippo Lipparini 
+* Eugene DePrince
 
 ## Program
 *To be announced.*
