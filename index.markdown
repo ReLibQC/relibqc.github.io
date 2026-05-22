@@ -8,9 +8,34 @@ The purpose of ReLibQC is to catalyze discussions within the quantum chemistry c
 **The workshop will be held in Toulouse (France), Monday September 21 to Friday September 25.**
 
 ## Sponsors
-* [![NanoX](/NanoX.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://nanox-toulouse.fr/) [NanoX](https://nanox-toulouse.fr/) - EUR grant n° ANR-17-EURE-0009
-* [![CECAM-GSO](https://www.cecam.org/themes/cecam/assets/images/logo.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https:////www.cecam.org/cecam-fr-gso) [CECAM-GSO](https://www.cecam.org/cecam-fr-gso) - Centre Européen de Calcul Atomique et Moléculaire, Grand Sud-Ouest Node
-* [![PRX Intelligence](/PRX_Intelligence_CMYK.png){: style="height:60px; vertical-align:middle; margin-left:8px;"}](https://journals.aps.org/prxintelligence/) [PRX Intelligence](https://journals.aps.org/prxintelligence/)
+<table style="border-collapse:separate; border-spacing:0 16px; width:100%;">
+  <tbody>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://nanox-toulouse.fr/"><img src="/NanoX.png" alt="NanoX" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://nanox-toulouse.fr/">NanoX</a> - EUR grant n° ANR-17-EURE-0009
+      </td>
+    </tr>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://www.cecam.org/cecam-fr-gso"><img src="https://www.cecam.org/themes/cecam/assets/images/logo.png" alt="CECAM-GSO" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://www.cecam.org/cecam-fr-gso">CECAM-GSO</a> - Centre Européen de Calcul Atomique et Moléculaire, Grand Sud-Ouest Node
+      </td>
+    </tr>
+    <tr>
+      <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
+        <a href="https://journals.aps.org/prxintelligence/"><img src="/PRX_Intelligence_CMYK.png" alt="PRX Intelligence" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="https://journals.aps.org/prxintelligence/">PRX Intelligence</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -52,4 +77,3 @@ To be announced.-->
 <!-- ** [ReLibQC 2025](/2025/) — Majvik Conference Center, Finland (June 29 – July 3, 2025)
 * [ReLibQC 2026](/2026/) — Fédération de Recherche Fermi, Toulouse, France (September 21–25, 2026) *(work in progress)*
 -->
-
