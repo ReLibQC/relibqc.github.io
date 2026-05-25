@@ -12,7 +12,7 @@ The purpose of ReLibQC is to catalyze discussions within the quantum chemistry c
   <tbody>
     <tr>
       <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
-        <a href="https://nanox-toulouse.fr/"><img src="/NanoX.png" alt="NanoX" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+        <a href="https://nanox-toulouse.fr/"><img src="/NanoX.png" alt="NanoX" style="max-height:60px; max-width:220px; width:auto; height:auto;"></a>
       </td>
       <td style="vertical-align:middle;">
         <a href="https://nanox-toulouse.fr/">NanoX</a> - EUR grant n° ANR-17-EURE-0009
@@ -20,7 +20,7 @@ The purpose of ReLibQC is to catalyze discussions within the quantum chemistry c
     </tr>
     <tr>
       <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
-        <a href="https://www.cecam.org/cecam-fr-gso"><img src="https://www.cecam.org/themes/cecam/assets/images/logo.png" alt="CECAM-GSO" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+        <a href="https://www.cecam.org/cecam-fr-gso"><img src="https://www.cecam.org/themes/cecam/assets/images/logo.png" alt="CECAM-GSO" style="max-height:60px; max-width:220px; width:auto; height:auto;"></a>
       </td>
       <td style="vertical-align:middle;">
         <a href="https://www.cecam.org/cecam-fr-gso">CECAM-GSO</a> - Centre Européen de Calcul Atomique et Moléculaire, Grand Sud-Ouest Node
@@ -28,7 +28,7 @@ The purpose of ReLibQC is to catalyze discussions within the quantum chemistry c
     </tr>
     <tr>
       <td style="width:260px; vertical-align:middle; text-align:center; padding-right:24px;">
-        <a href="https://journals.aps.org/prxintelligence/"><img src="/PRX_Intelligence_CMYK.png" alt="PRX Intelligence" style="max-height:64px; max-width:220px; width:auto; height:auto;"></a>
+        <a href="https://journals.aps.org/prxintelligence/"><img src="/PRX_Intelligence_CMYK.png" alt="PRX Intelligence" style="max-height:60px; max-width:220px; width:auto; height:auto;"></a>
       </td>
       <td style="vertical-align:middle;">
         <a href="https://journals.aps.org/prxintelligence/">PRX Intelligence</a>
@@ -53,11 +53,11 @@ We encourage everyone that registers to ReLibQC to submit an abstract. The progr
 Additionally, the program will include keynote talks (45 minutes + 15 minutes of discussion), poster and programming sessions, and plenty of time for discussions.
 
 ## Confirmed keynote speakers
-<!--* Paul Ayers or Farnaz Heidar-Zadeh-->
 * Jan Brandejs
 * Michael F. Herbst
 * Filippo Lipparini
 * Eugene DePrince
+* Farnaz Heidar-Zadeh and Paul Ayers
 
 ## Program
 *To be announced.*
