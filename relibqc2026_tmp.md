@@ -45,7 +45,7 @@ Long lunch breaks are planned to foster interactions between participants. All p
 |               |                      | Colton Hicks      |                   | Rafael Souza Mattos         |                  |
 | 15:15 - 15:45 | Keynote talk         | Short talk        | Workshop on an ontology for quantum chemistry   | Short talk          |                  |
 |               | Jan Brandejs         | Peter Reinhardt   | Mario Wolter                                    |                     |                  |
-| 15:45 - 16:15 | Coffee               | Coffee            |                   | Coffee                      | Closing          |
+| 15:45 - 16:15 | Coffee               | Coffee            | Coffee            | Coffee                      | Closing          |
 | 16:15 - 17:00 | Contributed talk     | Coding session    | Coding session    | Coding session              |                  |
 |               | David Williams-Young |                   |                   |                             |                  |
 | 17:00 - 17:30 | Short talk           | Coding session    | Coding session    | Coding session              |                  |
