@@ -30,28 +30,28 @@ The workshop runs from Monday September 21 to Friday September 25, 2026.
 
 Long lunch breaks are planned to foster interactions between participants. All participants are welcome to present a poster.
 
-| Time          | Monday  21.9.        | Tuesday 22.9.    | Wednesday 23.9.   | Thursday 24.9.      | Friday 25.9.     |
-|---------------|----------------------|------------------|-------------------|---------------------|------------------|
-| 09:00 - 09:15 |                      | Plan of the day   | Plan of the day    | Plan of the day     | Plan of the day  |
-| 09:15 - 10:15 |                      | Keynote talk     | Keynote talk      | Keynote talk        | Keynote talk     |
-|  |                      |      | Filippo Lipparini | Michael Herbst      | Mario Wolter?    |
-| 10:15 - 10:45 |                      | Coffee           | Coffee            | Coffee              | Coffee           |
-| 10:45 - 11:30 |                      | Contributed talk | Contributed talk  | Contributed talk    | Contributed talk |
-|  |                      | Ryan Richard     | Lukas Wittmann    | Philip Nelson       | Ning Zhang       |
-| 11:30 - 12:00 |                      | Flash talk       | Flash talk        | Flash talk          | Flash talk       |
-|  |                      |                  |                   |                     |                  |
-| 12:00 - 14:30 |                      | Lunch            | Lunch             | Lunch               | Lunch            |
-| 14:30 - 15:15 | Plan of the day      | Contributed talk | Posters           | Contributed talk    | Discussions      |
-|  |                      | Colton Hicks     |                   | Rafael Souza Mattos |                  |
-| 15:15 - 15:45 | Keynote talk         | Short talk       | Coding workshop   | Short talk          |                  |
-|  | Jan Brandejs                      | Peter Reinhardt  |                   |                     |                  |
-| 15:45 - 16:15 | Coffee               | Coffee           |                   | Coffee              | Closing          |
-| 16:15 - 17:00 | Contributed talk     | Coding session   |                   | Coding session      |                  |
-|  | David Williams-Young |                  |                   |                     |                  |
-| 17:00 - 17:30 | Short talk           | Coding session   |                   | Coding session      |                  |
-| |           |    |                   |       |                  |
-| 17:30 - 20:00 | Free time            | Free time        | Free time         | Free time           |                  |
-| 20:00 - 23:00 |                      |                  |                   | Conference dinner   |                  |
+| Time          | Monday  21.9.        | Tuesday 22.9.     | Wednesday 23.9.   | Thursday 24.9.              | Friday 25.9.     |
+|---------------|----------------------|-------------------|-------------------|-----------------------------|------------------|
+| 09:00 - 09:15 |                      | Plan of the day   | Plan of the day   | Plan of the day             | Plan of the day  |
+| 09:15 - 10:15 |                      | Keynote talk      | Keynote talk      | Keynote talk                | Keynote talk     |
+|               |                      | Eugene de Prince  | Filippo Lipparini | Michael Herbst              | Paul Ayers & Farnaz Heidar-Zadeh    |
+| 10:15 - 10:45 |                      | Coffee            | Coffee            | Coffee                      | Coffee           |
+| 10:45 - 11:30 |                      | Contributed talk  | Contributed talk  | Contributed talk            | Contributed talk |
+|               |                      | Ryan Richard      | Lukas Wittmann    | Philip Nelson               | Ning Zhang       |
+| 11:30 - 12:00 |                      | Flash talk        | Flash talk        | Flash talk                  | Flash talk       |
+|               |                      |                   |                   |                             |                  |
+| 12:00 - 14:30 |                      | Lunch             | Lunch             | Lunch                       | Lunch            |
+| 14:30 - 15:15 | Plan of the day      | Contributed talk  | Posters           | Contributed talk            | Discussions      |
+|               |                      | Colton Hicks      |                   | Rafael Souza Mattos         |                  |
+| 15:15 - 15:45 | Keynote talk         | Short talk        | Workshop on an ontology for quantum chemistry   | Short talk          |                  |
+|               | Jan Brandejs         | Peter Reinhardt   | Mario Wolter                                    |                     |                  |
+| 15:45 - 16:15 | Coffee               | Coffee            |                   | Coffee                      | Closing          |
+| 16:15 - 17:00 | Contributed talk     | Coding session    | Coding session    | Coding session              |                  |
+|               | David Williams-Young |                   |                   |                             |                  |
+| 17:00 - 17:30 | Short talk           | Coding session    | Coding session    | Coding session              |                  |
+|               |                      |                   |                   |                             |                  |
+| 17:30 - 20:00 | Free time            | Free time         | Free time         | Free time                   |                  |
+| 20:00 - 23:00 |                      |                   |                   | Conference dinner           |                  |
 
 ## Organizing committee
 
