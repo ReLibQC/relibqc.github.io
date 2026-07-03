@@ -34,21 +34,23 @@ Long lunch breaks are planned to foster interactions between participants. All p
 |---------------|----------------------|------------------|-------------------|---------------------|------------------|
 | 09:00 - 09:15 |                      | Plan of the day   | Plan of the day    | Plan of the day     | Plan of the day  |
 | 09:15 - 10:15 |                      | Keynote talk     | Keynote talk      | Keynote talk        | Keynote talk     |
-|  |                      | Jan Brandejs     | Filippo Lipparini | Michael Herbst      | Mario Wolter?    |
+|  |                      |      | Filippo Lipparini | Michael Herbst      | Mario Wolter?    |
 | 10:15 - 10:45 |                      | Coffee           | Coffee            | Coffee              | Coffee           |
-| 10:45 - 11:45 |                      | Contributed talk | Contributed talk  | Contributed talk    | Contributed talk |
+| 10:45 - 11:30 |                      | Contributed talk | Contributed talk  | Contributed talk    | Contributed talk |
 |  |                      | Ryan Richard     | Lukas Wittmann    | Philip Nelson       | Ning Zhang       |
-| 11:45 - 12:00 |                      | Flash talk       | Flash talk        | Flash talk          | Flash talk       |
+| 11:30 - 12:00 |                      | Flash talk       | Flash talk        | Flash talk          | Flash talk       |
 |  |                      |                  |                   |                     |                  |
 | 12:00 - 14:30 |                      | Lunch            | Lunch             | Lunch               | Lunch            |
 | 14:30 - 15:15 | Plan of the day      | Contributed talk | Posters           | Contributed talk    | Discussions      |
 |  |                      | Colton Hicks     |                   | Rafael Souza Mattos |                  |
 | 15:15 - 15:45 | Keynote talk         | Short talk       | Coding workshop   | Short talk          |                  |
-|  |                      | Peter Reinhardt  |                   |                     |                  |
+|  | Jan Brandejs                      | Peter Reinhardt  |                   |                     |                  |
 | 15:45 - 16:15 | Coffee               | Coffee           |                   | Coffee              | Closing          |
 | 16:15 - 17:00 | Contributed talk     | Coding session   |                   | Coding session      |                  |
 |  | David Williams-Young |                  |                   |                     |                  |
-| 17:00 - 17:30 | Short talk           |                  |                   |                     |                  |
+| 17:00 - 17:30 | Short talk           | Coding session   |                   | Coding session      |                  |
+| |           |    |                   |       |                  |
+| 17:30 - 20:00 | Free time            | Free time        | Free time         | Free time           |                  |
 | 20:00 - 23:00 |                      |                  |                   | Conference dinner   |                  |
 
 ## Organizing committee
