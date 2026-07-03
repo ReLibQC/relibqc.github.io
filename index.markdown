@@ -3,9 +3,10 @@ layout: default
 ---
 # Welcome to the Reusable Libraries in Quantum Chemistry (ReLibQC) 2026 Workshop!
 
-The purpose of ReLibQC is to catalyze discussions within the quantum chemistry community on the potential of new reusable libraries. Reusable libraries exhibit great promise in reducing maintenance costs of quantum chemical software, and accelerate the development of science. The ReLibQc meeting series thus has an explicit focus on enabling discussions and networking between various projects, which can result in the development of new reusable libraries for novel topics. For information about the ReLibQC workshop series, see the [About](/about/) page.
+The purpose of ReLibQC is to catalyze discussions within the quantum chemistry community on the potential of new reusable libraries. Reusable libraries exhibit great promise in reducing maintenance costs of quantum chemical software, and accelerate the development of science. The ReLibQC meeting series thus has an explicit focus on enabling discussions and networking between various projects, which can result in the development of new reusable libraries for novel topics. For information about the ReLibQC workshop series, see the [About](/about/) page.
 
 **The workshop will be held in Toulouse (France), Monday September 21 to Friday September 25.**
+<p style="color: red;">The official start is Monday after lunch at 14:30. We end on Friday at 12:00 noon.</p>
 
 ## Sponsors
 <table style="border-collapse:separate; border-spacing:0 16px; width:100%;">
