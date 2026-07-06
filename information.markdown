@@ -5,7 +5,9 @@ permalink: /information/
 ---
 
 ### Location
-The workshop will be held at the [Fédération de Recherche Fermi (FeRMI)](https://fermi.univ-tlse3.fr/en/) in Toulouse, France. Directions to the building can be found on [this page](https://fermi.univ-tlse3.fr/en/the-federation/contact/).
+The workshop will be held at the [Fédération de Recherche Fermi (FeRMI)](https://fermi.univ-tlse3.fr/en/) in Toulouse, France.
+<p style="color: red;">The official start is Monday after lunch at 14:30. We end on Friday at 12:00 noon.</p>
+Directions to the building can be found on [this page](https://fermi.univ-tlse3.fr/en/the-federation/contact/).
 
 ### Travel
 * **By plane:** Toulouse-Blagnac Airport (TLS) offers direct flights from many major travel hubs.
