@@ -38,10 +38,10 @@ Long lunch breaks are planned to foster interactions between participants. All p
 |---------------|----------------------|----------------------|-----------------------------------------------|---------------------|----------------------------------|
 | 10:15 - 10:45 |                      | Coffee               | Coffee                                        | Coffee              | Coffee                           |
 |---------------|----------------------|----------------------|-----------------------------------------------|---------------------|----------------------------------|
-| 10:45 - 12:00 |                      | /Contributed talk/   | /Short talks/                                 | /Contributed talk/  | /Contributed talk/               |
+| 10:45 - 12:00 |                      | /Contributed talk/   | /Short talks/                                 | /Contributed talks/ | /Contributed talk/               |
 |               |                      | Jörg Kussmann        | Lukas Wittmann                                | Philip Nelson       | Ryan Richard                     |
-|               |                      | /Flash talks/        | Lori Burns                                    | /Short talk/        | /Flash talks/                    |
-|               |                      | Edgan Landinez Borda | /Flash talk/                                  | Rafael Souza Mattos | Charles Patterson                |
+|               |                      | /Flash talks/        | Lori Burns                                    | Rafael Souza Mattos | /Flash talks/                    |
+|               |                      | Edgan Landinez Borda | /Flash talk/                                  |                     | Charles Patterson                |
 |               |                      | Niklas Paulicks      | Huling Shao                                   |                     | Satrajit Adhikari                |
 |---------------|----------------------|----------------------|-----------------------------------------------|---------------------|----------------------------------|
 | 12:00 - 14:30 |                      | Lunch                | Lunch                                         | Lunch               | Lunch                            |
