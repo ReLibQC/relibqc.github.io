@@ -13,11 +13,13 @@ This workshop is partially supported through the EUR grant NanoX n° ANR-17-EURE
 
 ## Registration
 
-[Registration is online](https://docs.google.com/forms/d/e/1FAIpQLScM0I_eKJxC-xApLTmgZ2jj7a-PHVfXf1rZgOpaouD03iVdIg/)
+<!--[Registration is online](https://docs.google.com/forms/d/e/1FAIpQLScM0I_eKJxC-xApLTmgZ2jj7a-PHVfXf1rZgOpaouD03iVdIg/)-->
+Registration has closed.
 
 ## Abstract submission
 
-Abstract submission details will be announced soon.
+<!--Abstract submission details will be announced soon.-->
+Abstract submission has closed.
 
 ## Timetable
 
