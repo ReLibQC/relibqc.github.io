@@ -71,13 +71,13 @@ Long lunch breaks are planned to foster interactions between participants. All p
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 10:45 - 12:00 |                          | (C) Jörg Kussmann        | (S) Lukas Wittmann                            | (C) Philip Nelson       | (C) Ryan Richard                     |
 |               |                          | (F) Edgan Landinez Borda | (S) Lori Burns                                | (C) Rafael Souza Mattos | (F) Charles Patterson                |
-|               |                          | (F) Niklas Paulicks      | (F) Huling Shao                               |                         | (F) Satrajit Adhikari                |
+|               |                          | (F) Niklas Paulicks      | (F)                                           |                         | (F) Satrajit Adhikari                |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 12:00 - 14:30 |                          | Lunch                    | Lunch                                         | Lunch                   | Lunch                                |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
-| 14:30 - 15:45 | Plan of the day          | *Contributed talk*       | Posters                                       | (C) Roland Lindh        | Discussions                          |
-|               | (K) Jan Brandejs         | (C) Colton Hicks         | Workshop on an ontology for quantum chemistry | (S) Robert Adam         |                                      |
-|               |                          | (S) Peter Reinhardt      | Mario Wolter                                  |                         |                                      |
+| 14:30 - 15:45 | Plan of the day          | (C) Colton Hicks         | Posters                                       | (C) Roland Lindh        | Discussions                          |
+|               | (K) Jan Brandejs         | (S) Peter Reinhardt      | Workshop on an ontology for quantum chemistry | (S) Robert Adam         |                                      |
+|               |                          |                          | Mario Wolter                                  |                         |                                      |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 15:45 - 16:15 | Coffee                   | Coffee                   | Coffee                                        | Coffee                  | Closing                              |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
