@@ -1,7 +1,5 @@
 ---
-layout: page
-title: ReLibQC 2026
-permalink: /2026/
+layout: default
 ---
 # Welcome to the Reusable Libraries in Quantum Chemistry (ReLibQC) 2026 Workshop!
 
