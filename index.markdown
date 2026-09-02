@@ -47,22 +47,6 @@ The workshop will be held at the [Fédération de Recherche Fermi (FeRMI)](https
 
 <iframe src="https://cartes.app/?allez=FERMI - Fédération de Recherche Matière et Interactions|n13852801642|1.46727|43.56085#15/43.56085/1.46781" style=" width: 20rem; height: 36rem; max-width: 100%; margin: 0 auto; margin-bottom: 5vh; display: block; box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px; background: linear-gradient(white, white) padding-box, linear-gradient(to right, #2988e6, #57bff5) border-box; border: 0.2rem solid transparent; border-radius: 0.5rem; " ></iframe>
 
-<iframe
-	src="https://cartes.app/?allez=FERMI - Fédération de Recherche Matière et Interactions|n13852801642|1.46727|43.56085#15/43.56085/1.46727"
-	style="
-	width: 100%;
-	height: 36rem;
-	max-width: 100%;
-	margin: 0 auto;
-	margin-bottom: 5vh;
-	display: block;
-	box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
-		rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
-		background: linear-gradient(white, white) padding-box, linear-gradient(to right, #2988e6, #57bff5) border-box;
-  border: 0.2rem solid transparent;
-  border-radius: 0.5rem;
-"
-></iframe>
 
 Access to the building can be found on [this page](https://fermi.univ-tlse3.fr/en/the-federation/contact/).
 
