@@ -79,8 +79,8 @@ Long lunch breaks are planned to foster interactions between participants. All p
 | 10:15 - 10:45 |                          | Coffee                   | Coffee                                        | Coffee                  | Coffee                               |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 10:45 - 12:00 |                          | (C) Jörg Kussmann        | (S) Lukas Wittmann                            | (C) Philip Nelson       | (C) Ryan Richard                     |
-|               |                          | (F) Edgan Landinez Borda | (S) Lori Burns                                | (C) Rafael Souza Mattos | (F) Charles Patterson                |
-|               |                          | (F) Niklas Paulicks      | (F)                                           |                         | (F) Satrajit Adhikari                |
+|               |                          | (F) Edgar Landinez Borda | (S) Lori Burns                                | (C) Rafael Souza Mattos | (S) Satrajit Adhikari                |
+|               |                          | (F) Niklas Paulicks      | (F) Charles Patterson                         |                         |                                      |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 12:00 - 14:30 |                          | Lunch                    | Lunch                                         | Lunch                   | Lunch                                |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
