@@ -54,10 +54,9 @@ def fetch_speaker_types_from_web():
     # On ajoute Mario Wolter manuellement s'il est listé comme atelier
     speaker_types['mario wolter'] = 'Workshop / Discussion'
 
-    print(speaker_types)
-    speaker_types = {
-            'paul ayers' : 'Keynote talk',
-            'farnaz heidar-zadeh' : 'Keynote talk' }
+#    speaker_types = {
+#            'paul ayers' : 'Keynote talk',
+#            'farnaz heidar-zadeh' : 'Keynote talk' }
     return speaker_types
 
 def generate_jekyll_talks(csv_filepath, output_dir="2026"):
