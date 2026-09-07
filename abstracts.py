@@ -3,16 +3,18 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import os
+import unicodedata
 
 def slugify(text):
     """
-    Nettoie et formate le nom de l'orateur pour créer un nom de fichier propre.
-    Exemple: "Paul W. Ayers" -> "paul-w-ayers"
+    Nettoie et formate le nom de l'orateur pour créer un nom de fichier propre (ASCII).
+    Exemple: "Jörg Kussmann" -> "jorg-kussmann"
     """
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
     text = text.lower().strip()
-    text = re.sub(r'[^\w\s-]', '', text)
-    text = re.sub(r'[\s_]+', '-', text)
-    return text
+    text = re.sub(r"[^\w\s-]", "", text)
+    text = re.sub(r"[\s_]+", "-", text)
+    return text.strip("-")
 
 def fetch_speaker_types_from_web():
     """
