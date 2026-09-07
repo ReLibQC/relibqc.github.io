@@ -57,6 +57,9 @@ def fetch_speaker_types_from_web():
 #    speaker_types = {
 #            'paul ayers' : 'Keynote talk',
 #            'farnaz heidar-zadeh' : 'Keynote talk' }
+    speaker_types = {
+            'eugene deprince' : 'Keynote talk',
+            }
     return speaker_types
 
 def generate_jekyll_talks(csv_filepath, output_dir="2026"):
