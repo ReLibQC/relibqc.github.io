@@ -99,7 +99,7 @@ Long lunch breaks are planned to foster interactions between participants. All p
 The conference dinner will take place at the restaurant "Aux pieds sous la table":
 
 * [Google Maps](https://maps.app.goo.gl/NNmwmTjf4UWKrVB86)
-* [OpenStreetMap](https://cartes.app/?allez=Aux+Pieds+Sous+La+Table|n2525414016|1.43924|43.60962)
+* [OpenStreetMap](https://cartes.app/?allez=Aux+Pieds+Sous+La+Table\|n2525414016\|1.43924\|43.60962)
 
 ## Organizing committee
 
