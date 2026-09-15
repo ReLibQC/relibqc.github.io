@@ -73,28 +73,33 @@ Long lunch breaks are planned to foster interactions between participants. All p
 
 | Time          | Monday  21.9.            | Tuesday 22.9.            | Wednesday 23.9.                               | Thursday 24.9.          | Friday 25.9.                         |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
-| 09:00 - 10:15 |                          | Plan of the day          | Plan of the day                               | Plan of the day         | Plan of the day                      |
-|               |                          | (K) Eugene de Prince     | (K) Filippo Lipparini                         | (K) Michael Herbst      | (K) Paul Ayers & Farnaz Heidar-Zadeh |
+| 09:00         |                          | Plan of the day          | Plan of the day                               | Plan of the day         | Plan of the day                      |
+| -> 10:15      |                          | (K) Eugene de Prince     | (K) Filippo Lipparini                         | (K) Michael Herbst      | (K) Paul Ayers & Farnaz Heidar-Zadeh |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 10:15 - 10:45 |                          | Coffee                   | Coffee                                        | Coffee                  | Coffee                               |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
-| 10:45 - 12:00 |                          | (C) Jörg Kussmann        | (S) Lukas Wittmann                            | (C) Philip Nelson       | (C) Ryan Richard                     |
-|               |                          | (F) Edgar Landinez Borda | (S) Lori Burns                                | (C) Rafael Souza Mattos | (S) Satrajit Adhikari                |
-|               |                          | (F) Niklas Paulicks      | (F) Charles Patterson                         |                         |                                      |
+| 10:45         |                          | (C) Jörg Kussmann        | (S) Lukas Wittmann                            | (C) Philip Nelson       | (C) Ryan Richard                     |
+| -             |                          | (F) Edgar Landinez Borda | (S) Lori Burns                                | (C) Rafael Souza Mattos | (S) Satrajit Adhikari                |
+| -> 12:00      |                          | (F) Niklas Paulicks      | (F) Charles Patterson                         |                         |                                      |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 12:00 - 14:30 |                          | Lunch                    | Lunch                                         | Lunch                   | Lunch                                |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
-| 14:30 - 15:45 | Plan of the day          | (C) Colton Hicks         | Posters                                       | (C) Roland Lindh        | Discussions                          |
+| 14:30         | Plan of the day          | (C) Colton Hicks         | Posters                                       | (C) Roland Lindh        | Discussions                          |
 |               | (K) Jan Brandejs         | (S) Peter Reinhardt      | Workshop on an ontology for quantum chemistry | (S) Robert Adam         |                                      |
-|               |                          |                          | Mario Wolter                                  |                         |                                      |
+| -> 15:45      |                          |                          | Mario Wolter                                  |                         |                                      |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 15:45 - 16:15 | Coffee                   | Coffee                   | Coffee                                        | Coffee                  | Closing                              |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
-| 16:15 - 17:30 | (C) David Williams-Young | Coding session           | Coding session                                | Coding session          |                                      |
-|               | (S) Ning Zhang           |                          |                                               |                         |                                      |
+| 16:15         | (C) David Williams-Young | Coding session           | Coding session                                | Coding session          |                                      |
+| -> 17:30      | (S) Ning Zhang           |                          |                                               |                         |                                      |
 |---------------|--------------------------|--------------------------|-----------------------------------------------|-------------------------|--------------------------------------|
 | 17:30 - 20:00 | Free time                | Free time                | Free time                                     | Free time               |                                      |
-| 20:00 -       |                          |                          |                                               | Conference dinner       |                                      |
+| 20:30 -       |                          |                          |                                               | Conference dinner       |                                      |
+
+The conference dinner will take place at the restaurant "Aux pieds sous la table":
+
+* [Google Maps](https://maps.app.goo.gl/NNmwmTjf4UWKrVB86)
+* [OpenStreetMap](https://cartes.app/?allez=Aux+Pieds+Sous+La+Table|n2525414016|1.43924|43.60962)
 
 ## Organizing committee
 
