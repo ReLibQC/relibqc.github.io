@@ -1,4 +1,5 @@
---- layout: default
+---
+layout: default
 title: "An Ontology for Theoretical Chemistry"
 speaker: "Mario Wolter"
 affiliation: "Institute of Physical and Theoretical Chemistry, Technische Universität Braunschweig, Germany"
