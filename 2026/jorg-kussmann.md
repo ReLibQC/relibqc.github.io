@@ -9,7 +9,9 @@ type: "Contributed talk"
 # A Modular Approach for Program-Independent Ab Initio Method Development
 
 **Speaker:** Jörg Kussmann
+
 **Affiliation:** Theoretical Chemistry, Ludwig-Maximilians-Universität München (LMU)
+
 **Type:** Contributed talk
 
 ---

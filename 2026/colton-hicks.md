@@ -9,7 +9,9 @@ type: "Contributed talk"
 # Atoms for Humanity: A New Entity for Open Source QC Software Styled After the Apache Software Foundation
 
 **Speaker:** Colton Hicks
+
 **Affiliation:** Atoms for Humanity
+
 **Type:** Contributed talk
 
 ---

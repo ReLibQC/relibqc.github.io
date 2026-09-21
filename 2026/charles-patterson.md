@@ -9,7 +9,9 @@ type: "Flash talk"
 # Density-fitting method in the Exciton code for GW and BSE methods
 
 **Speaker:** Charles Patterson
+
 **Affiliation:** Trinity College Dublin, Ireland
+
 **Type:** Flash talk
 
 ---

@@ -8,6 +8,7 @@ type: "Workshop / Discussion"
 # An Ontology for Theoretical Chemistry
 
 **Speaker:** Mario Wolter
+
 **Affiliation:** Institute of Physical and Theoretical Chemistry, TU Braunschweig, Gaußstraße 17, 38106 Brau, nschweig, Germany
 
 **Type:** Workshop / Discussion

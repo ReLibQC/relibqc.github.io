@@ -9,7 +9,9 @@ type: "Keynote talk"
 # The Julia language in atomistic modelling: Software integration across research communities
 
 **Speaker:** Michael Herbst
+
 **Affiliation:** EPFL
+
 **Type:** Keynote talk
 
 ---

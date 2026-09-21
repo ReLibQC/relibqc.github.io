@@ -9,7 +9,9 @@ type: "Short talk"
 # Beyond Born Oppenheimer Theory: Adiabatic to Diabatic Transformation Program
 
 **Speaker:** Satrajit Adhikari
+
 **Affiliation:** Indian Association for the Cultivation of Science,  Kolkata, India
+
 **Type:** Short talk
 
 ---

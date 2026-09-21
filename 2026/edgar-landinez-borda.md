@@ -9,7 +9,9 @@ type: "Flash talk"
 # Exploring Performance Portability in QMCkl: A Kokkos-Based Orbital Microbenchmark
 
 **Speaker:** Edgar Landinez Borda
+
 **Affiliation:** Juelich Super Computing Center
+
 **Type:** Flash talk
 
 ---

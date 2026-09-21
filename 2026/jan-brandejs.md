@@ -9,7 +9,9 @@ type: "Keynote talk"
 # TAPP: Tensor Algebra Processing Primitives
 
 **Speaker:** Jan Brandejs
+
 **Affiliation:** Institut de Recherche en Informatique de Toulouse
+
 **Type:** Keynote talk
 
 ---

@@ -9,7 +9,9 @@ type: "Short talk"
 # Structured Data for Quantum Chemistry Through QCSchema and QCArchive
 
 **Speaker:** Lori Burns
+
 **Affiliation:** Georgia Institute of Technology
+
 **Type:** Short talk
 
 ---

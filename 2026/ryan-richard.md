@@ -9,7 +9,9 @@ type: "Contributed talk"
 # Efforts to Create Modular Floating-Point Independent Software
 
 **Speaker:** Ryan Richard
+
 **Affiliation:** Ames National Laboratory
+
 **Type:** Contributed talk
 
 ---

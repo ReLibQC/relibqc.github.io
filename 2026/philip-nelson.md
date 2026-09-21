@@ -9,7 +9,9 @@ type: "Contributed talk"
 # A reusable C++ library for configuration interaction calculations
 
 **Speaker:** Philip Nelson
+
 **Affiliation:** University of Helsinki
+
 **Type:** Contributed talk
 
 ---

@@ -9,7 +9,9 @@ type: "Contributed talk"
 # CI algorithms in ab initio code
 
 **Speaker:** Roland Lindh
+
 **Affiliation:** Uppsala University
+
 **Type:** Contributed talk
 
 ---

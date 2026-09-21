@@ -9,7 +9,9 @@ type: "Short talk"
 # MetaWave: A Platform for Unified Implementation of Wave Function Methods
 
 **Speaker:** Ning Zhang
+
 **Affiliation:** Qingdao Institute for Theoretical and Computational Sciences and Center for Optics Research and Engineering, Shandong University
+
 **Type:** Short talk
 
 ---

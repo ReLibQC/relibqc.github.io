@@ -9,7 +9,9 @@ type: "Keynote talk"
 # The QC-Devs Software Ecosystem for Research and Education
 
 **Speakers:** Farnaz Heidar-Zadeh & Paul Ayers
+
 **Affiliation:** Queen's University
+
 **Type:** Keynote talk
 
 ---

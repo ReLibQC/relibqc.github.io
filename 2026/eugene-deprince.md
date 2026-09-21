@@ -9,7 +9,9 @@ type: "Keynote talk"
 # Automated code generation and execution with the pdaggerq package
 
 **Speaker:** Eugene DePrince
+
 **Affiliation:** Florida State University
+
 **Type:** Keynote talk
 
 ---

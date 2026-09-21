@@ -9,7 +9,9 @@ type: "Contributed talk"
 # The Newton-X Platform for Mixed Quantum–Classical Dynamics
 
 **Speaker:** Rafael Souza Mattos
+
 **Affiliation:** Aix-Marseille Université
+
 **Type:** Contributed talk
 
 ---

@@ -9,7 +9,9 @@ type: "Short talk"
 # Flexible tools for Quantum Chemistry based on the IRPF90 preprocessor philosophy
 
 **Speaker:** Peter Reinhardt
+
 **Affiliation:** LCT, Sorbonne Université, Paris, France
+
 **Type:** Short talk
 
 ---

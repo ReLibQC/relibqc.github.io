@@ -9,7 +9,9 @@ type: "Short talk"
 # The Modular and Open-Source Implicit Solvation Toolbox MOIST
 
 **Speaker:** Lukas Wittmann
+
 **Affiliation:** Mulliken Center for Theoretical Chemistry, University of Bonn, Beringstraße 4, D-53115 Bonn, Germany
+
 **Type:** Short talk
 
 ---

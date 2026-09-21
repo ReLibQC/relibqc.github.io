@@ -9,7 +9,9 @@ type: "Short talk"
 # SeQuant Goes Multireference: What This Can Teach Us About Reusable Library Design
 
 **Speaker:** Robert Adam
+
 **Affiliation:** University of Stuttgart
+
 **Type:** Short talk
 
 ---

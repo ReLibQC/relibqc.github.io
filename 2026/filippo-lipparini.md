@@ -9,7 +9,9 @@ type: "Keynote talk"
 # DiagLib and OpenMMPol: from eigenvalue problems to polarizable embedding
 
 **Speaker:** Filippo Lipparini
+
 **Affiliation:** Università di Pisa, Dipartimento di Chimica e Chimica Industriale
+
 **Type:** Keynote talk
 
 ---

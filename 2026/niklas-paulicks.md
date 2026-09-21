@@ -9,7 +9,9 @@ type: "Flash talk"
 # Benchmarking Least-Squares Tensor Hypercontraction Techniques for Molecular Systems
 
 **Speaker:** Niklas Paulicks
+
 **Affiliation:** University of Hamburg
+
 **Type:** Flash talk
 
 ---

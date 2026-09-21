@@ -9,7 +9,9 @@ type: "Contributed talk"
 # Reusable Libraries Bridging the Classical and Quantum Software Stacks
 
 **Speaker:** David Williams-Young
+
 **Affiliation:** Microsoft Quantum
+
 **Type:** Contributed talk
 
 ---
